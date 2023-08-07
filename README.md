@@ -1,4 +1,4 @@
-# TensorFlow to ONNX Converter for EfficientNetB2
+# TensorFlow to ONNX Converter for EfficientNetB2~7
 # h5 to onnx
 
 This repository contains a script that takes a pre-trained EfficientNetB2 model in TensorFlow and converts it into the ONNX (Open Neural Network Exchange) format. 
